@@ -25,9 +25,9 @@
 <key>metadata</key>
 <dict>
 <key>bundle-identifier</key>
-<string>aia-UAT</string>
+<string>com.aiahk.idirect.uat</string>
 <key>bundle-version</key>
-<string>1.0</string>
+<string>4.364</string>
 <key>kind</key>
 <string>software</string>
 <key>title</key>
