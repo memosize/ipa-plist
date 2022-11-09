@@ -11,7 +11,7 @@
 <key>kind</key>
 <string>software-package</string>
 <key>url</key>
-<string>https://aiahk-nexus.aiaazure.biz/repository/iOs-App/com/AIA_Connect_Fou_4363_05_2022_1025-4363-signed/4363/AIA_Connect_Fou_4363_05_2022_1025-4363-signed-4363.ipa</string>
+<string>http://mikis.tpddns.cn:5000/sharing/libIgRjRs</string>
 </dict>
 <dict>
 <key>kind</key>
@@ -25,13 +25,13 @@
 <key>metadata</key>
 <dict>
 <key>bundle-identifier</key>
-<string>aia-UATr</string>
+<string>aia-UAT</string>
 <key>bundle-version</key>
 <string>1.0</string>
 <key>kind</key>
 <string>software</string>
 <key>title</key>
-<string>for-testing</string>
+<string>AIA-Connect-UAT</string>
 </dict>
 </dict>
 </array>
